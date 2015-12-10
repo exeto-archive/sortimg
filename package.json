@@ -1,0 +1,33 @@
+{
+  "name": "sortimg",
+  "version": "0.1.0",
+  "description": "Sorting photos based on EXIF data",
+  "license": "MIT",
+  "repository": "exeto/sortimg",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4"
+  },
+  "author": {
+    "name": "Timofey Dergachev",
+    "email": "t@exeto.me",
+    "url": "exeto.me"
+  },
+  "keywords": [
+    "exif",
+    "photo",
+    "rename"
+  ],
+  "bin": {
+    "sortimg": "./bin/sortimg.js"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "commander": "^2.9.0",
+    "exif": "^0.4.0",
+    "fs-extra": "^0.26.2",
+    "pify": "^2.3.0",
+    "progress": "^1.1.8",
+    "recursive-readdir": "^1.3.0"
+  }
+}
