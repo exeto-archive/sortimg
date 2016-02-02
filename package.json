@@ -24,7 +24,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "commander": "^2.9.0",
-    "exif": "^0.5.1",
+    "exif": "^0.6.0",
     "fs-extra": "^0.26.5",
     "pify": "^2.3.0",
     "progress": "^1.1.8",
