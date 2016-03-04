@@ -28,5 +28,5 @@ $ sortimg --help
 
 [MIT](LICENSE.md) © [Timofey Dergachev](http://exeto.me/)
 
-[depstat-url]: https://gemnasium.com/exeto/sortimg
-[depstat-image]: https://img.shields.io/gemnasium/exeto/sortimg.svg?style=flat
+[depstat-url]: https://david-dm.org/exeto/sortimg#info=Dependencies
+[depstat-image]: https://img.shields.io/david/exeto/sortimg.svg?style=flat-square
