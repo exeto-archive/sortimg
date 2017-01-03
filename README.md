@@ -1,4 +1,5 @@
-# sortimg [![Dependency Status][depstat-image]][depstat-url]
+# sortimg (DEPRECATED)
+[![Dependency Status][depstat-image]][depstat-url]
 
 Sorting photos based on EXIF data.
 
