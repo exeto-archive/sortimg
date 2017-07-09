@@ -1,7 +1,9 @@
 # sortimg (DEPRECATED)
 [![Dependency Status][depstat-image]][depstat-url]
 
-Sorting photos based on EXIF data.
+> Sorting photos based on EXIF data.
+
+**THIS PACKAGE IS NO LONGER MAINTAINED**
 
 ## Install
 
@@ -29,5 +31,5 @@ $ sortimg --help
 
 [MIT](LICENSE.md) © [Timofey Dergachev](http://exeto.me/)
 
-[depstat-url]: https://david-dm.org/exeto/sortimg#info=Dependencies
-[depstat-image]: https://img.shields.io/david/exeto/sortimg.svg?style=flat-square
+[depstat-url]: https://david-dm.org/exeto-archive/sortimg#info=Dependencies
+[depstat-image]: https://img.shields.io/david/exeto-archive/sortimg.svg?style=flat-square

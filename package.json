@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Sorting photos based on EXIF data",
   "license": "MIT",
-  "repository": "exeto/sortimg",
+  "repository": "exeto-archive/sortimg",
   "main": "index.js",
   "engines": {
     "node": ">= 4"
