@@ -1,6 +1,6 @@
 {
   "name": "sortimg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sorting photos based on EXIF data",
   "license": "MIT",
   "repository": "exeto-archive/sortimg",
